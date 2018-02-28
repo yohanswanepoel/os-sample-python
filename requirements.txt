@@ -1,2 +1,2 @@
-gunicorn
-Flask
+devpi-server
+devpi-web
